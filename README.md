@@ -1,12 +1,10 @@
 
 # Prova de Conceito - Métodos JavaScript
 
-Autor: Bernnardo Francisco de Oliveira Silva 
 
-RA:10435832
 
 # Introdução 
-Este projeto demonstra a utilização de cinco métodos importantes do JavaScript: `sort`, `map`, `reduce`, `filter` e `spread`. A atividade foi criada com o objetivo de ilustrar visualmente o comportamento de cada um desses métodos, utilizando um exemplo simples para facilitar a compreensão. Foi disponibilizado os arquivos da pasta app (os únicos que sofreram alterações). Para ver a aplicação no seu nagador, crie um projeto Next.js e cole o conteúdo desses arquivos. 
+Este projeto demonstra a utilização de cinco métodos importantes do JavaScript: `sort`, `map`, `reduce`, `filter` e `spread`. A atividade foi criada com o objetivo de ilustrar visualmente o comportamento de cada um desses métodos, utilizando um exemplo simples para facilitar a compreensão. 
 
 ## 🚀 Tecnologias Utilizadas
 
